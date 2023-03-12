@@ -1,0 +1,62 @@
+{
+  'personalDetails': {
+    'name': 'Utkersh Rajvenshi',
+    'about': 'UI developer with an eye for details. I have worked with React and TypeScript to build reliable web applications serving 100,000 monthly active users. I like to stretch myself and learn about cross-functional technologies. I have developed a genuine love for software development journeys and like to learn as much as possible.'
+    'phoneNumber': '+91-7417055892',
+    'emailId': 'utkarshrajvanshi2@gmail.com',
+    'githubId': 'https://github.com/utkershrajvenshi',
+    'linkedinId': 'https://www.linkedin.com/in/utkersh-rajvenshi'
+  },
+  'projects': [
+    {
+      'name': 'FindMyFamily- a group location tracking application',
+      'projectLink': 'https://github.com/utkershrajvenshi',
+      'synopsis': 'Mobile application built with Flutter to track real-time location of active participants enrolled within a group. Uses Firebase services as a supporting backend'
+    },
+    {
+      'name': 'CtrlV- a real-time clipboard service',
+      'projectLink': 'https://github.com/utkershrajvenshi',
+      'synopsis': 'CtrlV provides reusable and time-bound clipboards to use from anywhere and from any device using a ReactJS-based web dashboard. Users can access the web-app, sign in with their Google accounts and store upto 32 clipboards at once with maximum expiry of 30 days, with 48 hours set as default. The service internally uses Firebase Realtime Database to achieve instant sync across devices for the clipboards'
+    },
+  ],
+  'skills': [
+    {
+      'category': 'Programming Languages',
+      'items': [
+        'Python',
+        'JavaScript',
+        'TypeScript',
+        'Dart',
+        'bash'
+      ]
+    },
+    {
+      'category': 'Frameworks',
+      'items': [
+        'Flutter',
+        'React',
+        'Flask',
+        'Node'
+      ]
+    },
+    {
+      'category': 'Cloud technologies',
+      'items': [
+        'Google Cloud Platform',
+        'Amazon Web Services',
+        'Terraform',
+        'Ansible',
+        'Docker',
+        'Kubernetes'
+      ]
+    },
+    {
+      'category': 'Developer Productivity Tools',
+      'items': [
+        'VSCode Editor',
+        'Postman',
+        'Chrome DevTools'
+      ]
+    }
+  ]
+}
